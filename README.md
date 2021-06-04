@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saidur13141522
-- 👀 I’m interested in CLI-based IT learning
-- 🌱 I’m currently learning Pythin
-- 💞️ I’m looking to collaborate on codes
+- 👀 I’m more interested in CLI-based learning
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate Pythin codes
 - 📫 Reach me in Github
 
 <!---
