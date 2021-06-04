@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saidur13141522
 - 👀 I’m more interested in CLI-based learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate Pythin codes
+- 💞️ I’m looking to collaborate Python codes
 - 📫 Reach me in Github
 
 <!---
